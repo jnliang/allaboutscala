@@ -3,7 +3,7 @@ package com.crackcode
 object StringPermutation extends App {
 
 
-  permutation("ABCDEF")
+  permutation("tactcoa")
 
   def permutation(str: String): Unit = {
     permutation("", str)
